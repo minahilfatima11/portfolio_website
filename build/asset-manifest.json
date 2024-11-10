@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/minahilfatima11/Portfolio/static/css/main.5ac7f891.css",
-    "main.js": "/minahilfatima11/Portfolio/static/js/main.3088bf17.js",
-    "index.html": "/minahilfatima11/Portfolio/index.html"
+    "main.css": "/static/css/main.5ac7f891.css",
+    "main.js": "/static/js/main.5c524426.js",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.5ac7f891.css",
-    "static/js/main.3088bf17.js"
+    "static/js/main.5c524426.js"
   ]
 }
